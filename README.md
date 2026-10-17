@@ -6,7 +6,7 @@
 
 New Delhi, India · Open to software development opportunities in Bengaluru, Hyderabad, and Mumbai
 
-[GitHub](https://github.com/ShivamSejwal) · [LinkedIn](https://linkedin.com/in/shivam-sejwal-ab0aa7207) · [Email](mailto:Shivamsejwal123@gmail.com)
+[GitHub](https://github.com/ShivamSejwal) · [LinkedIn](https://linkedin.com/in/shivam-sejwal-ab0aa7207) · [Email](mailto:Shivamsejwal123@gmail.com) · [Portfolio](https://portfolio-orcin-kappa-74.vercel.app)
 
 </div>
 
